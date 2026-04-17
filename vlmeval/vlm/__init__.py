@@ -102,3 +102,4 @@ from .x_vl import X_VL_HF
 from .xcomposer import ShareCaptioner, XComposer, XComposer2, XComposer2_4KHD, XComposer2d5
 from .xgen_mm import XGenMM
 from .yi_vl import Yi_VL
+from .nanovlm import NanoVLM
